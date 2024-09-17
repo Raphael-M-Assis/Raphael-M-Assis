@@ -5,12 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelmoreiraassis/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/RaphaelMoreira)
 
-<div>
-  <a href="https://github.com/Raphael-M-Assis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphael-M-Assis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-M-Assis&layout=compact&langs_count=7&theme=radical"/>
-</div>
-    
+
 <br/>
 <div style="display: flex; gap: 3px; margin-top: 3px"><br/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
