@@ -19,6 +19,6 @@
 </div>
 <br/>
 
-Olá! Meu nome é Raphael, estudante de Sistemas de Informação no 7º período e apaixonado por desenvolvimento de software. Tenho 24 anos e sou um desenvolvedor full-stack com habilidades em Frontend e Backend. Atualmente, trabalho com React e Node.js no meu dia a dia, utilizando TypeScript para desenvolver aplicações escaláveis e robustas. Também possuo experiência em Java e Spring Boot, o que me permite criar soluções de software em diferentes tecnologias e plataformas. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos.
+Olá! Meu nome é Raphael, estudante de Sistemas de Informação e apaixonado por desenvolvimento de software. Tenho 24 anos e sou um desenvolvedor full-stack com habilidades em Frontend e Backend. Atualmente, trabalho com React e Node.js no meu dia a dia, utilizando TypeScript para desenvolver aplicações escaláveis e robustas. Também possuo experiência em Java e Spring Boot, o que me permite criar soluções de software em diferentes tecnologias e plataformas. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos.
 
 ### Para entrar em contato basta enviar um email para: raphaelmoreira240@gmail.com
